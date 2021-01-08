@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_survey"
+        android:icon="@drawable/group_16"
+        android:title="@string/title_survey" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/group_57"
+        android:title="@string/title_search" />
+
+    <item
+        android:id="@+id/navigation_write"
+        android:icon="@drawable/group_56"
+        android:title="@string/title_write" />
+
+    <item
+        android:id="@+id/navigation_notification"
+        android:icon="@drawable/heart_svgrepo_com_1"
+        android:title="@string/title_notification"/>
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/group_51"
+        android:title="@string/title_profile"/>
+</menu>
